@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">vpnproxyapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter">Enter</string>
+    <string name="region">Please select a region</string>
+    <string name="get_region">Get region</string>
+    <string name="textview1">Select a network</string>
+    <string name="disconnected">true</string>
+    <string name="connecting">false</string>
+    <string name="incomplete_proxy_settings">true</string>
+    <string name="unknown_package_names">\"\"</string>
+    <string name="connected">true</string>
+    <string name="go">Go</string>
+
+</resources>

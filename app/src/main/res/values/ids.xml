@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="address" type="id" />
+    <item name="port" type="id"/>
+    <item name="secret" type="id"/>
+    <item name="proxyhost" type="id" />
+    <item name="proxyport" type="id" />
+    <item name="allowed" type="id"/>
+    <item name="packages" type="id" />
+    <item name="disconnect" type="id"/>
+    <item name="connect" type="id"/>
+</resources>
